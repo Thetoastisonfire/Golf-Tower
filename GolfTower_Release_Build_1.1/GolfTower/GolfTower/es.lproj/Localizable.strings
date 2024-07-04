@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  GolfTower
+
+  Created by Ziyu Zhao on 11/12/23.
+  
+*/
+"Start Game" = "Iniciar Juego";
+"Paused" = "Pausado";
+"Level" = "Nivel %d";
+"Strokes" = "Golpes %d";
+"Restart" = "Reiniciar";
+"Level Select" = "Selección Nivel";
+"Floor Select" = "Selección Piso";
+"Level Complete!" = "¡Completado!";
+"Strokes used" = "Golpes Usados:";
+"Next Level" = "Siguiente Nivel";
+"Floor" = "Piso %d";
+"You Lost" = "¡Has Perdido!";
+"PERFECT!" = "¡PERFECTO!";
+

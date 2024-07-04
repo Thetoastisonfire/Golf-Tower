@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  GolfTower
+
+  Created by Ziyu Zhao on 11/12/23.
+  
+*/
+"Start Game" = "开始游戏";
+"Paused"="暂停";
+"Level"="楼层 %d";
+"Strokes"="杆数 %d";
+"Restart"="重新开始";
+"Level Select"="楼层选择";
+"Floor Select"="楼层选择";
+"Level Complete"="任务完成!";
+"Strokes used" = "使用杆数:";
+"Next Level" ="下一楼层";
+"Floor" = "楼层 %d";
+"You Lost" = "你失败了";
+"PERFECT!" = "完美!";
